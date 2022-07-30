@@ -1,4 +1,4 @@
-# Bushfire-Spread-Prevention-Solution-Challenge-2022
+# Bushfire Spread Prevention for the [Google Solution Challenge 2022](https://developers.google.com/community/gdsc-solution-challenge)
 
 To run this yourself, the only changes that need to be made are the paths of locally-stored files
 
